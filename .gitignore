@@ -1,0 +1,26 @@
+# Ignore bin and obj directories
+bin/
+obj/
+.history/
+*.cmd
+# Ignore user-specific files and settings
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore NuGet packages
+*.nuget.props
+*.nuget.targets
+
+# Ignore build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio code files
+.vscode/
+
+# Visual Studio IDE files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
